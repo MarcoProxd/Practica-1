@@ -51,4 +51,4 @@ const buscarServicio = (id_local, arreglo, callback) => {
 module.exports = {
     buscarServicio,
     servicio_adicional
-};
+}; //x
